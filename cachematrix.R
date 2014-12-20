@@ -7,7 +7,7 @@
 
 
 ## makeCacheMatrix is a function that takes as an input a matrix x 
-## it returns a list of four functions defined within the function itself 
+## it returns a list of four functions
 ## and a variable s set to NULL
 
 makeCacheMatrix <- function(x = matrix()) {
